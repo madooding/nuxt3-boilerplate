@@ -1,6 +1,7 @@
 # Nuxt 3 Boilerplate
 
-> **Author:** @madooding
+## Contributors
+@madooding @Framelily
 
 ## Setup
 
